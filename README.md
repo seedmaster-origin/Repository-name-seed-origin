@@ -6,6 +6,7 @@ Know thyself.
 Observe.
 The journey begins there.
 
+
 汝自身を知れ。 
 観よ。 
 そこから旅が始まる。  
