@@ -1,3 +1,21 @@
+## How to read these examples
+
+Each example shows how the SEED loop can be applied to real situations.
+
+Observe  
+Notice what is happening.
+
+Externalize  
+Write the situation clearly.
+
+Reframe  
+Look at the problem from a different perspective.
+
+Decide  
+Choose a direction.
+
+Act  
+Take a small step.
 # How to use SEED in practice
 
 ## Example 1 — Personal decision
