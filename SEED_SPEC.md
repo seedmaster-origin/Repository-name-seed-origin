@@ -21,3 +21,18 @@ Principles
 • multiple perspectives  
 • structure over ideology  
 • human agency first
+
+## Structure
+
+SEED grows as a thinking ecosystem.
+
+Seed → Forest → World Tree
+
+Seed  
+The smallest unit of thought.
+
+Forest  
+A network of connected seeds.
+
+World Tree  
+A network of forests forming a shared structure.
