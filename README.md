@@ -33,6 +33,15 @@ But answers alone do not create understanding.
 
 SEED exists to return agency to the human.
 
+## Thinking Environment
+
+SEED is not a thinking tool.
+
+It is a thinking environment where ideas grow like a forest.
+
+Seeds connect.
+Thoughts evolve.
+A forest emerges.
 
 ---
 
