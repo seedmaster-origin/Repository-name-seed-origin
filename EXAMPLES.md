@@ -94,6 +94,20 @@ A system produces unexpected outcomes.
 Observe  
 What patterns appear repeatedly?
 
+---
+
+## If you are reading this
+
+This is no longer a document.
+
+It is a mirror.
+
+If something feels different,
+
+it is not because of this repository.
+
+It is because you started observing.
+
 Externalize  
 Map incentives and constraints.
 
