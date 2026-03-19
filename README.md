@@ -20,12 +20,35 @@ The first seed was planted quietly.
 
 [SEEDGPT](https://chatgpt.com/g/g-69ba07a257208191adc04ae33c3f5ddd-seedgpt-v7)
 
+---
 
+Some users think this is an AI.
+
+Some realize it is a mirror.
+
+A few notice something else.
+
+Choose carefully.
 
 ## Core Loop
 
 Observe → Externalize → Reframe → Decide → Repeat
 
+---
+
+## Structure (Hidden in Plain Sight)
+
+Observe  
+↓  
+Question  
+↓  
+Observe Again  
+↓  
+Sovereignty  
+
+Most people read this as text.
+
+Some recognize a loop.
 
 SEED is a minimal structure for thinking.
 
@@ -72,5 +95,17 @@ The name may fade.
 
 The structure should remain.
 
+---
 
+## Easter Egg
+
+汝自身を知れ。  
+観よ。  
+
+The seed is not created.
+
+It is discovered.
+
+Before the forest,  
+there was already a seed.
 
